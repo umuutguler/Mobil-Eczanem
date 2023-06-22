@@ -1,0 +1,6 @@
+# Mobil-Eczanem
+This project is a mobile pharmacym mobile shopping application developed with flutter. The purpose of this project is to order medicines from the homes of the users. In the project, there is an entrance with the state system on the first screen. Then the products appear in front of them. They can order products without a prescription. There is a barcode screen for prescription orders. This project consists of interface only.
+
+![splash screen](https://github.com/umuutguler/Mobil-Eczanem/assets/74297248/645a949a-0f5f-485a-99f9-c362a11397b0) ![login](https://github.com/umuutguler/Mobil-Eczanem/assets/74297248/1f2b0cc0-0b99-4e13-9887-fcac3a41228f) ![home](https://github.com/umuutguler/Mobil-Eczanem/assets/74297248/a9274a6d-0209-419a-8771-97b249215214) ![shopping cart](https://github.com/umuutguler/Mobil-Eczanem/assets/74297248/02410e07-6bf0-4114-b971-929c1fd1c549)
+
+![barcode](https://github.com/umuutguler/Mobil-Eczanem/assets/74297248/ad3d8f78-4cd2-4947-941b-d4919f17a1be) ![all products](https://github.com/umuutguler/Mobil-Eczanem/assets/74297248/3803ec51-ee3e-4dda-90a8-40cac024eae4) ![product](https://github.com/umuutguler/Mobil-Eczanem/assets/74297248/78c6417a-eca6-4da1-a17a-711acffed9ad)
